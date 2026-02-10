@@ -3,7 +3,7 @@
 /**
  * Class NpsCalculator
  * Outputs the nps score given an array of scores
- * OOP way
+ * Object oriented way
  */
 class NpsCalculator {
 
